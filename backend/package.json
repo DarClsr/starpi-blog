@@ -6,7 +6,7 @@
     "@strapi/strapi": "4.0.4",
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
-    "sqlite3": "5.0.2"
+    "mysql": "^2.18.1"
   },
   "name": "backend",
   "private": true,
